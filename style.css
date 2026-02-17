@@ -1,0 +1,103 @@
+
+@import url('https://fonts.cdnfonts.com/css/samsung-sharp-sans');
+
+
+
+body{
+    background-color: rgb(17, 18, 17);
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    /*font-family: "Google Sans", sans-serif;*/
+    /*font-family: 'Samsung Sharp Sans', sans-serif;*/
+    font-weight: bolder;
+
+;
+}
+
+h1{
+    text-align: center;
+    background-color:#5B23FF;
+    -webkit-text-stroke: 1px green;
+    border-radius: 10px;
+    letter-spacing: 3px;
+    font-weight: bolder;
+}
+
+
+h3{
+    background-color: #234C6A;
+    /*text-align: center;
+    width: 40%;
+    margin: 0px auto;*/
+    border-radius: 10px;
+    border-left: 3px solid red;
+}
+
+h4{
+    color: orange;
+}
+
+audio{
+    width: 100%;
+    box-shadow: 5px -15px 20px #234C6A;
+    margin-bottom: 10px;
+    border-radius: 30px;
+}
+hr{
+    background: linear-gradient(to right, #c0c7d4,#1e90ff);
+    width: 70%;
+    border: 1px solid  #71919b;
+    border-radius: 15px;
+    box-shadow: 0px 0px 15px #a5d9eb;
+    color: white;
+
+}
+
+h2{
+    background-color: #5B23FF;
+    text-align: center;
+    -webkit-text-stroke: 1px green;
+    letter-spacing: 1px;
+    border-radius: 10px;
+    font-weight: bolder;
+}
+
+del{
+    background-color: red;
+}
+
+ins{
+    color: rgb(8, 235, 8);
+}
+
+mark{
+    background-color: rgb(245, 116, 69);
+    border-radius: 3px;
+}
+
+img{
+    border-radius: 5px;
+    box-shadow: -1px 0px 10px orange;
+}
+
+video{
+    box-shadow: 3px 3px 20px yellow;
+}
+
+strong{
+    background-color:#5B23FF; 
+    border-radius: 4px;
+    letter-spacing: 1px;
+}
+
+em{
+    color: red;
+    letter-spacing: 1px;
+}
+
+abbr{
+        background-color: #5B23FF;
+        border-radius: 3px;
+
+}
+
